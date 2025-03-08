@@ -1,0 +1,89 @@
+.tittle {
+  color: blueviolet;
+  background-color: paleturquoise;
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.text{
+  color: black;
+  font-weight: 500;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+  font-size: 16px;
+}
+
+.sub-tittle {
+  color: crimson;
+  background-color: aquamarine;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.sub-tittle-2{
+  color: darkred;
+  background-color: gold;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+font-weight: bold;
+}
+
+.Indian-Chicken li{
+color: chocolate;
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+font-weight: bold;
+}
+
+.order-chiken li{
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  font-weight: bold;
+}
+
+.Mexican-Tinga li{
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  font-weight: bold;
+  }
+  
+.order-mexican li{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: bold;
+  }
+
+.Oven-Baked li{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: bold;
+    }
+    
+.order-oven li{
+      color: pink;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: justify;
+      font-weight: bold;
+    }
+
+.button {
+  color: black;
+  text-align: justify;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.image {
+  width: 400px;
+  height: 500px;
+  max-width: 600px;
+}
+
